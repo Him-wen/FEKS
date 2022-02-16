@@ -1,2 +1,2 @@
 # FEKS
-Front-end knowledge system...Zzz
+Front-end knowledge system
